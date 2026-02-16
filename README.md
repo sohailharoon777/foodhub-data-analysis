@@ -78,6 +78,11 @@ FoodHub-Data-Analysis/
 ├── data/
 │ └── foodhub_orders.csv
 │
+├── images/
+│   ├── plot_0.png
+│   ├── plot_1.png
+│   └── plot_2.png...
+│
 ├── notebooks/
 │ └── FoodHub_Data_Analysis.ipynb
 │
@@ -87,6 +92,15 @@ FoodHub-Data-Analysis/
 ├── README.md
 └── requirements.txt
 
+---
+
+## Sample Visualizations
+
+![Order Cost Distribution](images/plot_0.png)
+
+![Cuisine Demand Analysis](images/plot_1.png)
+
+![Weekday vs Weekend Delivery Time](images/plot_2.png)
 
 ---
 
