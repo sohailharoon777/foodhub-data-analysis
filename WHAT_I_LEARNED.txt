@@ -1,0 +1,10 @@
+**Project:** FoodHub Exploratory Data Analysis
+
+**GitHub Repository:** https://github.com/sohailharoon777/foodhub-data-analysis
+
+**What I Learned**
+- Built an end-to-end workflow from dataset → modeling → shareable HTML report.
+- Practiced data cleaning, feature preparation, and validation checks to reduce leakage risk.
+- Trained and compared models using metrics aligned to the problem (precision/recall/F1 as needed).
+- Interpreted results with a confusion-matrix mindset, not accuracy alone.
+- Published a portfolio-ready repo with clean structure, documentation, and dependencies.
